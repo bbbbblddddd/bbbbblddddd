@@ -10,7 +10,7 @@
 
 ###  Practical Experience With:
 
-Javascript ⚪️
+Javascript ◽️
 Python • HTML & CSS • PostreSQL • Javascript • React • Express • MongoDB • Java • Spring
 Agile working, TDD and OOP
 
