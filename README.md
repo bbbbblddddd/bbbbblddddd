@@ -9,11 +9,6 @@
 - ⚡ Fun fact: I run a sustainabilty art project called The Coorie Project which can be found => **https://www.coorieproject.com/
 
 ###  Practical Experience With:
-
-Javascript ◽️
-Python • HTML & CSS • PostreSQL • Javascript • React • Express • MongoDB • Java • Spring
-Agile working, TDD and OOP
-
 <hr></hr>
 <div align="center">
 <span>
@@ -28,9 +23,15 @@ Agile working, TDD and OOP
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height=50px/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height=50px/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height=50px/>&nbsp;
+    <br/>
+Javascript ◽️ Java ◽️ Python ◽️ React ◽️ HTML & CSS ◽️ PostgreSQL ◽️ Flask ◽️ Express ◽️ MongoDB ◽️ Spring 
+<br/>
+Agile methodology, TDD and OOP
 </span>
   </div>
 <hr></hr>
+
+
 
 ###  Projects I have worked on:
 
