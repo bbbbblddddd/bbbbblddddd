@@ -2,11 +2,12 @@
 - 👁️ Junior Software Developer looking for a new role in tech
 - 👨🏻‍🎓 CodeClan Professional Software Development Graduate | G34
 - 🎨 Glasgow School of Art Graduate | 2009
-- 🥬 I’m currently working on a seasonal ingredients recipe app: 'In Season'
+- 🥬 I’m currently planning a seasonal ingredients recipe app: 'In Season'
 - 💡 I enjoy finding creative solutions to problems
 - 📚 Looking to expand on my learning across full-stack development
 
 - ⚡ Fun fact: I run a sustainabilty art project called The Coorie Project which can be found => **https://www.coorieproject.com/
+- ❒ I am in the process of breaking free of the clutches of SquareSpace and am building a React / Javascript version of The Coorie Project myself, COMING SOON!
 
 ###  Practical Experience With:
 <hr></hr>
