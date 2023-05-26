@@ -6,6 +6,9 @@
 - 💡 I enjoy finding creative solutions to problems
 - 📚 Looking to expand on my learning across full-stack development
 
+<br/>
+<br/>
+
 - ⚡ Fun fact: I run a sustainabilty art project called The Coorie Project which can be found => **https://www.coorieproject.com/
 - ❒ I am in the process of breaking free of the clutches of SquareSpace and am building a React / Javascript version of The Coorie Project myself, COMING SOON!
 
