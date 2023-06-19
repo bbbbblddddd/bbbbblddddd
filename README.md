@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-- ⚡ Fun fact: I run a sustainabilty art project called The Coorie Project which can be found => **https://www.coorieproject.com/
+- ⚡ Fun fact: I run a sustainabilty art project called The Coorie Project. Here is the website I built for it => **https://www.coorieproject.co.uk/
 - ❒ I am in the process of breaking free of the clutches of SquareSpace and am building a React / Javascript version of The Coorie Project myself, COMING SOON!
 
 ###  Practical Experience With:
